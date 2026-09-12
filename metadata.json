@@ -1,0 +1,8 @@
+{
+  "name": "সাপ্তাহিক সমিতি",
+  "description": "সদস্য ও সাপ্তাহিক লাভের হিসাব খাতা - Active vs Overdue tracking, dynamic 7-day countdown, and auto-compounding debt calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
